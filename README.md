@@ -47,12 +47,12 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="48"/>
 </p>
 
-<p><sub><b>DEVOPS</b></sub></p>
+<!-- <p><sub><b>DEVOPS</b></sub></p>
 <p>
   <img src="https://skillicons.dev/icons?i=docker,jenkins,prometheus,grafana,git,github,linux&theme=dark" alt="DevOps"/>
   &nbsp;<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" height="48"/>
   <img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white" alt="Nexus" height="48"/>
-</p>
+</p> -->
 
 <p><sub><b>AI / ML</b></sub></p>
 <p>
