@@ -18,15 +18,13 @@
 
 ## About Me 😊
 
-- 🎓 Computer Science Engineer, graduated from **ESPRIT** (Tunis).
 - 💻 **Full-Stack Engineer** with production experience on **React, Next.js, Node.js and Strapi**.
 - 🧩 I build **CMS-driven websites** and **custom admin dashboards** that let clients manage their own content.
 - ⚡ I own features **end to end**, from the interface to the API, with a focus on **performance and SEO**.
 - 🏗️ Experience with **microservices**: Spring Boot, Kafka, WebSocket real-time features.
 - 🤖 **AI enthusiast**: I've integrated ML models into real apps (task-duration prediction, OCR extraction, KNN recommendations).
 - ⚙️ **DevOps curious**: CI/CD pipelines with Docker, Jenkins, SonarQube, Nexus, Prometheus and Grafana.
-- 📜 **Scrum Fundamentals** certified · Agile mindset.
-- 🌍 Arabic · French · English · Spanish.
+
 - 📍 Based in **Tunis, Tunisia**.
 
 <br/>
