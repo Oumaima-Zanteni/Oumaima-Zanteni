@@ -6,11 +6,9 @@
 
 <br/>
 
- <h2 align="center">Connect with me 😇</h2>
-
 <p align="center">
   <a href="https://oumaima-zanteni.vercel.app/">
-    <img src="https://raw.githubusercontent.com/Oumaima-Zanteni/Oumaima-Zanteni/main/assets/portfolio-button.svg" width="300" alt="Visit my portfolio"/>
+  <img src="https://raw.githubusercontent.com/Oumaima-Zanteni/Oumaima-Zanteni/main/assets/portfolio-button.svg" width="300" alt="Visit my portfolio"/>
   </a>
 </p>
 
