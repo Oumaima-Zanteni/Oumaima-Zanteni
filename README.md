@@ -1,116 +1,90 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Oumaima%20Zanteni&fontSize=58&fontColor=F8F8FF&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20Automation&descAlignY=60&descSize=18&descColor=C4B5FD" alt=""/>
+<img width="100%" src="assets/banner.svg" alt="Oumaima Zanteni - Full-Stack Engineer"/>
 
-<!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=640&height=48&lines=Hi%2C+I'm+Oumaima+%F0%9F%91%8B;I+design+%26+build+web+applications.;I+integrate+AI+where+it+creates+real+value.;I+automate+what+should+never+be+done+twice." alt=""/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF8AF0&center=true&vCenter=true&width=700&height=44&lines=Full-Stack+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Strapi;Building+CMS-driven+websites+%26+custom+dashboards;Curious+about+AI+%F0%9F%A4%96+and+DevOps+%E2%9A%99%EF%B8%8F" alt=""/>
 </p>
 
-<!-- Portfolio -->
-<p align="center">
+<br/>
+
+## Connect with me 😇
+
+<p>
   <a href="https://YOUR-PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-%E2%86%97-A78BFA?style=for-the-badge&labelColor=24243E&color=A78BFA" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-FF2BD6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Oumaima-Zanteni&style=for-the-badge&color=302B63&label=Views" alt=""/>
 </p>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:38BDF8,100:A78BFA&height=2" alt=""/>
+## About Me 😊
+
+- 🎓 Computer Science Engineer, graduated from **ESPRIT** (Tunis).
+- 💻 **Full-Stack Engineer** with production experience on **React, Next.js, Node.js and Strapi**.
+- 🧩 I build **CMS-driven websites** and **custom admin dashboards** that let clients manage their own content.
+- ⚡ I own features **end to end**, from the interface to the API, with a focus on **performance and SEO**.
+- 🏗️ Experience with **microservices**: Spring Boot, Kafka, WebSocket real-time features.
+- 🤖 **AI enthusiast**: I've integrated ML models into real apps (task-duration prediction, OCR extraction, KNN recommendations).
+- ⚙️ **DevOps curious**: CI/CD pipelines with Docker, Jenkins, SonarQube, Nexus, Prometheus and Grafana.
+- 📜 **Scrum Fundamentals** certified · Agile mindset.
+- 🌍 Arabic · French · English · Spanish.
+- 📍 Based in **Tunis, Tunisia**.
 
 <br/>
 
-<!-- About -->
-<h2 align="center">About</h2>
+## Tech Stack 🛠️
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Tunis%2C%20Tunisia-24243E?style=flat-square&labelColor=24243E&color=302B63" alt=""/>
-  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Full--Stack-24243E?style=flat-square&labelColor=24243E&color=302B63" alt=""/>
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Builder-24243E?style=flat-square&labelColor=24243E&color=302B63" alt=""/>
+<p><sub><b>FRONTEND</b></sub></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,figma&theme=dark" alt="Frontend"/>
 </p>
 
-<p align="center">
-  I build complete products, from the first interface sketch to the deployed application.<br/>
-  My work sits at the intersection of <b>web engineering</b> and <b>applied AI</b>:<br/>
-  clean, maintainable code on one side, language models and automation on the other.
+<p><sub><b>BACKEND</b></sub></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,laravel,python,django,dotnet&theme=dark" alt="Backend"/>
+  &nbsp;<img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" height="48"/>
 </p>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:38BDF8,100:A78BFA&height=2" alt=""/>
-
-<br/>
-
-<!-- Stack -->
-<h2 align="center">Stack</h2>
-
-<p align="center"><sub><b>LANGUAGES</b></sub></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cpp&theme=dark" alt="Languages"/>
+<p><sub><b>DATABASES &amp; MESSAGING</b></sub></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,kafka,graphql&theme=dark" alt="Databases"/>
+  &nbsp;<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="48"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="48"/>
 </p>
 
-<p align="center"><sub><b>FRONTEND</b></sub></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" alt="Frontend"/>
+<p><sub><b>DEVOPS</b></sub></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,prometheus,grafana,git,github,linux&theme=dark" alt="DevOps"/>
+  &nbsp;<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" height="48"/>
+  <img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white" alt="Nexus" height="48"/>
 </p>
 
-<p align="center"><sub><b>BACKEND &amp; DATA</b></sub></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,firebase&theme=dark" alt="Backend"/>
-</p>
-
-<p align="center"><sub><b>AI &amp; AUTOMATION</b></sub></p>
-<p align="center">
-  <a href="https://www.anthropic.com"><img src="https://img.shields.io/badge/Claude%20API-24243E?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude API"/></a>
-  <img src="https://img.shields.io/badge/LLM%20Agents-24243E?style=for-the-badge&logo=openai&logoColor=A78BFA" alt="LLM Agents"/>
-  <a href="https://n8n.io"><img src="https://img.shields.io/badge/n8n-24243E?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n"/></a>
-  <a href="https://www.make.com"><img src="https://img.shields.io/badge/Make-24243E?style=for-the-badge&logo=make&logoColor=38BDF8" alt="Make"/></a>
-</p>
-
-<p align="center"><sub><b>TOOLS</b></sub></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel&theme=dark" alt="Tools"/>
+<p><sub><b>AI / ML</b></sub></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow&theme=dark" alt="AI"/>
+  &nbsp;<img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" height="48"/>
 </p>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:38BDF8,100:A78BFA&height=2" alt=""/>
+## Interests 🚀
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Artificial Intelligence
+Bringing machine learning into real products: prediction models, OCR pipelines, recommendation engines and LLM-powered features that users actually touch.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ DevOps
+Automating the path from commit to production: containerization, CI/CD pipelines, code quality gates, artifact management and observability.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- What I build -->
-<h2 align="center">What I build</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" alt=""/><br/>
-  <b>Web applications</b><br/>
-  <sub>End-to-end products: interface, API, database, deployment.</sub>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="40" alt=""/><br/>
-  <b>AI-powered features</b><br/>
-  <sub>Language models and agents integrated into real, usable software.</sub>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=workers&theme=dark" width="40" alt=""/><br/>
-  <b>Automation workflows</b><br/>
-  <sub>Systems that remove repetitive work and give time back.</sub>
-</p>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:38BDF8,100:A78BFA&height=2" alt=""/>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=36&lines=Thanks+for+stopping+by.;Let's+build+something+great." alt=""/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=130&section=footer&animation=twinkling" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:845EC2,100:FF2BD6&height=110&section=footer" alt=""/>
