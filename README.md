@@ -23,7 +23,7 @@
 - ⚡ I own features **end to end**, from the interface to the API, with a focus on **performance and SEO**.
 - 🏗️ Experience with **microservices**: Spring Boot, Kafka, WebSocket real-time features.
 - 🤖 **AI enthusiast**: I've integrated ML models into real apps (task-duration prediction, OCR extraction, KNN recommendations).
-- ⚙️ **DevOps **: CI/CD pipelines with Docker, Jenkins, SonarQube, Nexus, Prometheus and Grafana.
+- ⚙️ **DevOps curious**: CI/CD pipelines with Docker, Jenkins, SonarQube, Nexus, Prometheus and Grafana.
 
 <br/>
 
