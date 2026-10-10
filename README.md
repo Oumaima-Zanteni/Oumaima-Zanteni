@@ -1,16 +1,16 @@
-<img width="100%" src="assets/banner.svg" alt="Oumaima Zanteni - Full-Stack Engineer"/>
+<img width="100%" src="https://raw.githubusercontent.com/Oumaima-Zanteni/Oumaima-Zanteni/main/assets/banner.svg" alt="Oumaima Zanteni - Full-Stack Engineer"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF8AF0&center=true&vCenter=true&width=700&height=44&lines=Full-Stack+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Strapi;Building+CMS-driven+websites+%26+custom+dashboards;Curious+about+AI+%F0%9F%A4%96+and+DevOps+%E2%9A%99%EF%B8%8F" alt=""/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF8AF0&center=true&vCenter=true&width=900&height=40&lines=Full-Stack+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Strapi;Building+CMS-driven+websites+%26+custom+admin+dashboards;Curious+about+AI+%F0%9F%A4%96+and+DevOps+%E2%9A%99%EF%B8%8F" alt=""/>
 </p>
 
 <br/>
 
-## Connect with me 😇
+<h2 align="center">Connect with me 😇</h2>
 
-<p>
+<p align="center">
   <a href="https://YOUR-PORTFOLIO">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF2BD6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://raw.githubusercontent.com/Oumaima-Zanteni/Oumaima-Zanteni/main/assets/portfolio-button.svg" width="300" alt="Visit my portfolio"/>
   </a>
 </p>
 
@@ -18,13 +18,15 @@
 
 ## About Me 😊
 
+- 🎓 Computer Science Engineer, graduated from **ESPRIT** (Tunis).
 - 💻 **Full-Stack Engineer** with production experience on **React, Next.js, Node.js and Strapi**.
 - 🧩 I build **CMS-driven websites** and **custom admin dashboards** that let clients manage their own content.
 - ⚡ I own features **end to end**, from the interface to the API, with a focus on **performance and SEO**.
 - 🏗️ Experience with **microservices**: Spring Boot, Kafka, WebSocket real-time features.
 - 🤖 **AI enthusiast**: I've integrated ML models into real apps (task-duration prediction, OCR extraction, KNN recommendations).
 - ⚙️ **DevOps curious**: CI/CD pipelines with Docker, Jenkins, SonarQube, Nexus, Prometheus and Grafana.
-
+- 📜 **Scrum Fundamentals** certified · Agile mindset.
+- 🌍 Arabic · French · English · Spanish.
 - 📍 Based in **Tunis, Tunisia**.
 
 <br/>
