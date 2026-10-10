@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/Oumaima-Zanteni/Oumaima-Zanteni/main/assets/banner.svg" alt="Oumaima Zanteni - Full-Stack Engineer"/>
+<!-- <img width="100%" src="https://raw.githubusercontent.com/Oumaima-Zanteni/Oumaima-Zanteni/main/assets/banner.svg" alt="Oumaima Zanteni - Full-Stack Engineer"/> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF8AF0&center=true&vCenter=true&width=900&height=40&lines=Full-Stack+Engineer+%7C+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Strapi;Building+CMS-driven+websites+%26+custom+admin+dashboards;Curious+about+AI+%F0%9F%A4%96+and+DevOps+%E2%9A%99%EF%B8%8F" alt=""/>
@@ -6,7 +6,7 @@
 
 <br/>
 
-<h2 align="center">Connect with me 😇</h2>
+<!-- <h2 align="center">Connect with me 😇</h2>
 
 <p align="center">
   <a href="https://YOUR-PORTFOLIO">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<br/>
+<br/> -->
 
 ## About Me 😊
 
