@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://oumaima-zanteni.vercel.app/">
-  <img src="https://raw.githubusercontent.com/Oumaima-Zanteni/Oumaima-Zanteni/main/assets/portfolio-button.svg" width="300" alt="Visit my portfolio"/>
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"/>
   </a>
 </p>
 
