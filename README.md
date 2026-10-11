@@ -55,7 +55,7 @@
 <p><sub><b>AI / ML</b></sub></p>
 <p>
   <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow&theme=dark" alt="AI"/>
-  &nbsp;<img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" height="48"/>
+  <!-- &nbsp;<img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" height="48"/> -->
 </p>
 
 <br/>
